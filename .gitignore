@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Render output (videos are big)
+renders/
+frames/
+*.mp4
+*_frames/
